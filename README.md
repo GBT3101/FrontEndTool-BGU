@@ -9,6 +9,10 @@ Hello, this web application will be used as a tool to test your NodeJS and help 
 
 *Make sure you have `git`, `npm` and `Nodejs 7.2.0` installed on your pc.*
 
+Install git (windows) - https://www.atlassian.com/git/tutorials/install-git#windows
+
+Install node (& npm) - https://nodejs.org/en/download/
+
 1. First, open your command line and clone / download this project to your pc:
 
 ```sh
