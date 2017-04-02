@@ -3,7 +3,7 @@ This web application is a tool for BGU students to test their NodeJS server.
 
 # Overview
 
-Hello, this web application will be used as a tool to test your NodeJS and help you implement it step by step, follow the instructions and have fun.
+Hello, this web application will be used as a tool to test your NodeJS and help you implement it step by step, follow the instructions and have fun. **You should not by any means touch the source code in this repository, IT'S ONLY A TOOL TO TEST YOUR SERVER, do not change anything, ever.**
 
 # Installation
 
