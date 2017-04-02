@@ -44,3 +44,5 @@ To start, enter this repository: https://github.com/GBT3101/Nodejs-Tutorial-BGU
 Further instructions will be exaplained there (Implementing the API, etc).
 
 **GOOD LUCK!**
+
+![alt tag](http://efdreams.com/data_images/dreams/blackjack/blackjack-05.jpg)
