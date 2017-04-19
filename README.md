@@ -16,7 +16,7 @@ Install node (& npm) - https://nodejs.org/en/download/
 1. First, open your command line and clone / download this project to your pc:
 
 ```sh
-git clone git@github.com:GBT3101/FrontEndTool-BGU.git
+git clone https://github.com/GBT3101/FrontEndTool-BGU.git
 cd FrontEndTool-BGU
 ```
 
